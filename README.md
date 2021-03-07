@@ -18,4 +18,9 @@
 #Bostion_housing   
 [2021-02-24]   
 [feature] start   
-[update] study fin- code
+[update] study fin- code   
+
+   
+   
+#CNN Basic   
+[2021-03-07] data path setting
