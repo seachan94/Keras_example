@@ -23,4 +23,5 @@
    
    
 #CNN Basic   
-[2021-03-07] data path setting
+[2021-03-07] data path setting   
+[2021 - 03 - 14] updata code & feature Network & feature generator
